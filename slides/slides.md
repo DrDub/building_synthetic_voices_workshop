@@ -66,7 +66,7 @@ To know more: [BSV Chapter 1, "History"](http://festvox.org/bsv/c59.html#AEN61)
 
 ---
 
-Concepts of linguists
+Concepts of linguistics
 ---------------------
 
 * Part-of-speech
