@@ -45,6 +45,10 @@ I work on Natural Language Processing / Machine Learning.
 
 Not an speech expert per se, but interested in learning more.
 
+My personal site: [http://duboue.net](http://duboue.net)
+
+My 2014 class (in Spanish): [http://aprendizajengrande.net](http://aprendizajengrande.net)
+
 ---
 
 TTS: simulation vs. emulation
@@ -57,6 +61,8 @@ TTS: simulation vs. emulation
 * Emulation: generate a sound wave by other means (concatenating and
   adapting examples from a speech database) so that humans will
   recognize it as speech. More language dependent.
+
+To know more: [BSV Chapter 1, "History"](http://festvox.org/bsv/c59.html#AEN61)
 
 ---
 
@@ -211,6 +217,8 @@ IDEA: the boundary between syllables is very varied, but the middle is
 not. Record these boundaries (half-syllables) and assemble continuous
 speech from them.
 
+To know more: [BSV Chapter 11, "Diphone databases"](http://festvox.org/bsv/c2265.html)
+
 ---
 
 Unit selection synthesis
@@ -219,6 +227,8 @@ Unit selection synthesis
 IDEA: extend the concept of diphones to larger units. Select the unit
 on-the-fly using information from the context where the unit is being
 spoken.
+
+To know more: [BSV Chapter 12, "Diphone databases"](http://festvox.org/bsv/c2645.html)
 
 ---
 
