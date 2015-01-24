@@ -69,6 +69,42 @@ Concepts of linguists
 
 ---
 
+Parts of speech
+----------------
+
+A word in context belongs to different classes of words depending on
+its function in the sentence.
+
+For examine the word "flies"  in "time flies like an arrow" is a verb. 
+
+Identifying the correct POS for a word is important for text-to-speech
+because different classes of words are stressed differently. Moreover
+some words are written the same and pronounced differently given their
+POS (e.g., "read:)
+
+---
+
+Prosody
+-------
+
+Prosody is the sub-field of linguistics that studies
+intonation. Natural stress is the key for non-monotonous speech
+synthesis.
+
+A key concept here is new versus old information. New information
+tends to be further stressed.
+
+
+---
+
+Vowels, consonants, types of
+----------------------------
+
+* http://en.m.wikipedia.org/wiki/IPA_vowel_chart_with_audio
+* http://en.m.wikipedia.org/wiki/Help:IPA
+
+---
+
 Festival project, tools
 -----------------------
 
@@ -186,10 +222,21 @@ spoken.
 
 ---
 
+Where to use diphone synthesis
+------------------------------
+
+* Festival
+* FreeTTS (Java)
+* eflite
+* PD Speech patch
+
+---
+
 Where to go from here
 ---------------------
 
 * Spanish/French
+* Finding prompts automatically
 * Millenium prompts
 * Chess
 
