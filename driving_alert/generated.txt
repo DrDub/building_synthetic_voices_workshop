@@ -1,0 +1,513 @@
+There is an obstacle to your right.
+There is an intersection to your right.
+There is a pedestrian to your right.
+There is a car to your right.
+There is a bicycle to your right.
+There is an obstacle to your left.
+There is an intersection to your left.
+There is a pedestrian to your left.
+There is a car to your left.
+There is a bicycle to your left.
+You are approaching an obstacle in 100 meters.
+You are approaching an intersection in 100 meters.
+You are approaching a pedestrian in 100 meters.
+You are approaching a car in 100 meters.
+You are approaching a bicycle in 100 meters.
+You are approaching an obstacle in 50 meters.
+You are approaching an intersection in 50 meters.
+You are approaching a pedestrian in 50 meters.
+You are approaching a car in 50 meters.
+You are approaching a bicycle in 50 meters.
+You are approaching an obstacle in 40 meters.
+You are approaching an intersection in 40 meters.
+You are approaching a pedestrian in 40 meters.
+You are approaching a car in 40 meters.
+You are approaching a bicycle in 40 meters.
+You are approaching an obstacle in 30 meters.
+You are approaching an intersection in 30 meters.
+You are approaching a pedestrian in 30 meters.
+You are approaching a car in 30 meters.
+You are approaching a bicycle in 30 meters.
+You are approaching an obstacle in 25 meters.
+You are approaching an intersection in 25 meters.
+You are approaching a pedestrian in 25 meters.
+You are approaching a car in 25 meters.
+You are approaching a bicycle in 25 meters.
+You are approaching an obstacle in 20 meters.
+You are approaching an intersection in 20 meters.
+You are approaching a pedestrian in 20 meters.
+You are approaching a car in 20 meters.
+You are approaching a bicycle in 20 meters.
+You are approaching an obstacle in 15 meters.
+You are approaching an intersection in 15 meters.
+You are approaching a pedestrian in 15 meters.
+You are approaching a car in 15 meters.
+You are approaching a bicycle in 15 meters.
+You are approaching an obstacle in 10 meters.
+You are approaching an intersection in 10 meters.
+You are approaching a pedestrian in 10 meters.
+You are approaching a car in 10 meters.
+You are approaching a bicycle in 10 meters.
+You are approaching an obstacle in 5 meters.
+You are approaching an intersection in 5 meters.
+You are approaching a pedestrian in 5 meters.
+You are approaching a car in 5 meters.
+You are approaching a bicycle in 5 meters.
+In 100 meters, you will encounter an obstacle that is stationary.
+In 50 meters, you will encounter an obstacle that is stationary.
+In 40 meters, you will encounter an obstacle that is stationary.
+In 30 meters, you will encounter an obstacle that is stationary.
+In 25 meters, you will encounter an obstacle that is stationary.
+In 20 meters, you will encounter an obstacle that is stationary.
+In 15 meters, you will encounter an obstacle that is stationary.
+In 10 meters, you will encounter an obstacle that is stationary.
+In 5 meters, you will encounter an obstacle that is stationary.
+In 100 meters, you will encounter an intersection that is stationary.
+In 50 meters, you will encounter an intersection that is stationary.
+In 40 meters, you will encounter an intersection that is stationary.
+In 30 meters, you will encounter an intersection that is stationary.
+In 25 meters, you will encounter an intersection that is stationary.
+In 20 meters, you will encounter an intersection that is stationary.
+In 15 meters, you will encounter an intersection that is stationary.
+In 10 meters, you will encounter an intersection that is stationary.
+In 5 meters, you will encounter an intersection that is stationary.
+In 100 meters, you will encounter a pedestrian that is stationary.
+In 50 meters, you will encounter a pedestrian that is stationary.
+In 40 meters, you will encounter a pedestrian that is stationary.
+In 30 meters, you will encounter a pedestrian that is stationary.
+In 25 meters, you will encounter a pedestrian that is stationary.
+In 20 meters, you will encounter a pedestrian that is stationary.
+In 15 meters, you will encounter a pedestrian that is stationary.
+In 10 meters, you will encounter a pedestrian that is stationary.
+In 5 meters, you will encounter a pedestrian that is stationary.
+In 100 meters, you will encounter a car that is stationary.
+In 50 meters, you will encounter a car that is stationary.
+In 40 meters, you will encounter a car that is stationary.
+In 30 meters, you will encounter a car that is stationary.
+In 25 meters, you will encounter a car that is stationary.
+In 20 meters, you will encounter a car that is stationary.
+In 15 meters, you will encounter a car that is stationary.
+In 10 meters, you will encounter a car that is stationary.
+In 5 meters, you will encounter a car that is stationary.
+In 100 meters, you will encounter a bicycle that is stationary.
+In 50 meters, you will encounter a bicycle that is stationary.
+In 40 meters, you will encounter a bicycle that is stationary.
+In 30 meters, you will encounter a bicycle that is stationary.
+In 25 meters, you will encounter a bicycle that is stationary.
+In 20 meters, you will encounter a bicycle that is stationary.
+In 15 meters, you will encounter a bicycle that is stationary.
+In 10 meters, you will encounter a bicycle that is stationary.
+In 5 meters, you will encounter a bicycle that is stationary.
+In 100 meters, you will encounter an obstacle that is stopped.
+In 50 meters, you will encounter an obstacle that is stopped.
+In 40 meters, you will encounter an obstacle that is stopped.
+In 30 meters, you will encounter an obstacle that is stopped.
+In 25 meters, you will encounter an obstacle that is stopped.
+In 20 meters, you will encounter an obstacle that is stopped.
+In 15 meters, you will encounter an obstacle that is stopped.
+In 10 meters, you will encounter an obstacle that is stopped.
+In 5 meters, you will encounter an obstacle that is stopped.
+In 100 meters, you will encounter an intersection that is stopped.
+In 50 meters, you will encounter an intersection that is stopped.
+In 40 meters, you will encounter an intersection that is stopped.
+In 30 meters, you will encounter an intersection that is stopped.
+In 25 meters, you will encounter an intersection that is stopped.
+In 20 meters, you will encounter an intersection that is stopped.
+In 15 meters, you will encounter an intersection that is stopped.
+In 10 meters, you will encounter an intersection that is stopped.
+In 5 meters, you will encounter an intersection that is stopped.
+In 100 meters, you will encounter a pedestrian that is stopped.
+In 50 meters, you will encounter a pedestrian that is stopped.
+In 40 meters, you will encounter a pedestrian that is stopped.
+In 30 meters, you will encounter a pedestrian that is stopped.
+In 25 meters, you will encounter a pedestrian that is stopped.
+In 20 meters, you will encounter a pedestrian that is stopped.
+In 15 meters, you will encounter a pedestrian that is stopped.
+In 10 meters, you will encounter a pedestrian that is stopped.
+In 5 meters, you will encounter a pedestrian that is stopped.
+In 100 meters, you will encounter a car that is stopped.
+In 50 meters, you will encounter a car that is stopped.
+In 40 meters, you will encounter a car that is stopped.
+In 30 meters, you will encounter a car that is stopped.
+In 25 meters, you will encounter a car that is stopped.
+In 20 meters, you will encounter a car that is stopped.
+In 15 meters, you will encounter a car that is stopped.
+In 10 meters, you will encounter a car that is stopped.
+In 5 meters, you will encounter a car that is stopped.
+In 100 meters, you will encounter a bicycle that is stopped.
+In 50 meters, you will encounter a bicycle that is stopped.
+In 40 meters, you will encounter a bicycle that is stopped.
+In 30 meters, you will encounter a bicycle that is stopped.
+In 25 meters, you will encounter a bicycle that is stopped.
+In 20 meters, you will encounter a bicycle that is stopped.
+In 15 meters, you will encounter a bicycle that is stopped.
+In 10 meters, you will encounter a bicycle that is stopped.
+In 5 meters, you will encounter a bicycle that is stopped.
+In 100 meters, you will encounter an obstacle that might not be able to see you.
+In 50 meters, you will encounter an obstacle that might not be able to see you.
+In 40 meters, you will encounter an obstacle that might not be able to see you.
+In 30 meters, you will encounter an obstacle that might not be able to see you.
+In 25 meters, you will encounter an obstacle that might not be able to see you.
+In 20 meters, you will encounter an obstacle that might not be able to see you.
+In 15 meters, you will encounter an obstacle that might not be able to see you.
+In 10 meters, you will encounter an obstacle that might not be able to see you.
+In 5 meters, you will encounter an obstacle that might not be able to see you.
+In 100 meters, you will encounter an intersection that might not be able to see you.
+In 50 meters, you will encounter an intersection that might not be able to see you.
+In 40 meters, you will encounter an intersection that might not be able to see you.
+In 30 meters, you will encounter an intersection that might not be able to see you.
+In 25 meters, you will encounter an intersection that might not be able to see you.
+In 20 meters, you will encounter an intersection that might not be able to see you.
+In 15 meters, you will encounter an intersection that might not be able to see you.
+In 10 meters, you will encounter an intersection that might not be able to see you.
+In 5 meters, you will encounter an intersection that might not be able to see you.
+In 100 meters, you will encounter a pedestrian that might not be able to see you.
+In 50 meters, you will encounter a pedestrian that might not be able to see you.
+In 40 meters, you will encounter a pedestrian that might not be able to see you.
+In 30 meters, you will encounter a pedestrian that might not be able to see you.
+In 25 meters, you will encounter a pedestrian that might not be able to see you.
+In 20 meters, you will encounter a pedestrian that might not be able to see you.
+In 15 meters, you will encounter a pedestrian that might not be able to see you.
+In 10 meters, you will encounter a pedestrian that might not be able to see you.
+In 5 meters, you will encounter a pedestrian that might not be able to see you.
+In 100 meters, you will encounter a car that might not be able to see you.
+In 50 meters, you will encounter a car that might not be able to see you.
+In 40 meters, you will encounter a car that might not be able to see you.
+In 30 meters, you will encounter a car that might not be able to see you.
+In 25 meters, you will encounter a car that might not be able to see you.
+In 20 meters, you will encounter a car that might not be able to see you.
+In 15 meters, you will encounter a car that might not be able to see you.
+In 10 meters, you will encounter a car that might not be able to see you.
+In 5 meters, you will encounter a car that might not be able to see you.
+In 100 meters, you will encounter a bicycle that might not be able to see you.
+In 50 meters, you will encounter a bicycle that might not be able to see you.
+In 40 meters, you will encounter a bicycle that might not be able to see you.
+In 30 meters, you will encounter a bicycle that might not be able to see you.
+In 25 meters, you will encounter a bicycle that might not be able to see you.
+In 20 meters, you will encounter a bicycle that might not be able to see you.
+In 15 meters, you will encounter a bicycle that might not be able to see you.
+In 10 meters, you will encounter a bicycle that might not be able to see you.
+In 5 meters, you will encounter a bicycle that might not be able to see you.
+In 100 meters, you will encounter an obstacle that is going too slow.
+In 50 meters, you will encounter an obstacle that is going too slow.
+In 40 meters, you will encounter an obstacle that is going too slow.
+In 30 meters, you will encounter an obstacle that is going too slow.
+In 25 meters, you will encounter an obstacle that is going too slow.
+In 20 meters, you will encounter an obstacle that is going too slow.
+In 15 meters, you will encounter an obstacle that is going too slow.
+In 10 meters, you will encounter an obstacle that is going too slow.
+In 5 meters, you will encounter an obstacle that is going too slow.
+In 100 meters, you will encounter an intersection that is going too slow.
+In 50 meters, you will encounter an intersection that is going too slow.
+In 40 meters, you will encounter an intersection that is going too slow.
+In 30 meters, you will encounter an intersection that is going too slow.
+In 25 meters, you will encounter an intersection that is going too slow.
+In 20 meters, you will encounter an intersection that is going too slow.
+In 15 meters, you will encounter an intersection that is going too slow.
+In 10 meters, you will encounter an intersection that is going too slow.
+In 5 meters, you will encounter an intersection that is going too slow.
+In 100 meters, you will encounter a pedestrian that is going too slow.
+In 50 meters, you will encounter a pedestrian that is going too slow.
+In 40 meters, you will encounter a pedestrian that is going too slow.
+In 30 meters, you will encounter a pedestrian that is going too slow.
+In 25 meters, you will encounter a pedestrian that is going too slow.
+In 20 meters, you will encounter a pedestrian that is going too slow.
+In 15 meters, you will encounter a pedestrian that is going too slow.
+In 10 meters, you will encounter a pedestrian that is going too slow.
+In 5 meters, you will encounter a pedestrian that is going too slow.
+In 100 meters, you will encounter a car that is going too slow.
+In 50 meters, you will encounter a car that is going too slow.
+In 40 meters, you will encounter a car that is going too slow.
+In 30 meters, you will encounter a car that is going too slow.
+In 25 meters, you will encounter a car that is going too slow.
+In 20 meters, you will encounter a car that is going too slow.
+In 15 meters, you will encounter a car that is going too slow.
+In 10 meters, you will encounter a car that is going too slow.
+In 5 meters, you will encounter a car that is going too slow.
+In 100 meters, you will encounter a bicycle that is going too slow.
+In 50 meters, you will encounter a bicycle that is going too slow.
+In 40 meters, you will encounter a bicycle that is going too slow.
+In 30 meters, you will encounter a bicycle that is going too slow.
+In 25 meters, you will encounter a bicycle that is going too slow.
+In 20 meters, you will encounter a bicycle that is going too slow.
+In 15 meters, you will encounter a bicycle that is going too slow.
+In 10 meters, you will encounter a bicycle that is going too slow.
+In 5 meters, you will encounter a bicycle that is going too slow.
+In 100 meters, you will encounter an obstacle that is going too fast.
+In 50 meters, you will encounter an obstacle that is going too fast.
+In 40 meters, you will encounter an obstacle that is going too fast.
+In 30 meters, you will encounter an obstacle that is going too fast.
+In 25 meters, you will encounter an obstacle that is going too fast.
+In 20 meters, you will encounter an obstacle that is going too fast.
+In 15 meters, you will encounter an obstacle that is going too fast.
+In 10 meters, you will encounter an obstacle that is going too fast.
+In 5 meters, you will encounter an obstacle that is going too fast.
+In 100 meters, you will encounter an intersection that is going too fast.
+In 50 meters, you will encounter an intersection that is going too fast.
+In 40 meters, you will encounter an intersection that is going too fast.
+In 30 meters, you will encounter an intersection that is going too fast.
+In 25 meters, you will encounter an intersection that is going too fast.
+In 20 meters, you will encounter an intersection that is going too fast.
+In 15 meters, you will encounter an intersection that is going too fast.
+In 10 meters, you will encounter an intersection that is going too fast.
+In 5 meters, you will encounter an intersection that is going too fast.
+In 100 meters, you will encounter a pedestrian that is going too fast.
+In 50 meters, you will encounter a pedestrian that is going too fast.
+In 40 meters, you will encounter a pedestrian that is going too fast.
+In 30 meters, you will encounter a pedestrian that is going too fast.
+In 25 meters, you will encounter a pedestrian that is going too fast.
+In 20 meters, you will encounter a pedestrian that is going too fast.
+In 15 meters, you will encounter a pedestrian that is going too fast.
+In 10 meters, you will encounter a pedestrian that is going too fast.
+In 5 meters, you will encounter a pedestrian that is going too fast.
+In 100 meters, you will encounter a car that is going too fast.
+In 50 meters, you will encounter a car that is going too fast.
+In 40 meters, you will encounter a car that is going too fast.
+In 30 meters, you will encounter a car that is going too fast.
+In 25 meters, you will encounter a car that is going too fast.
+In 20 meters, you will encounter a car that is going too fast.
+In 15 meters, you will encounter a car that is going too fast.
+In 10 meters, you will encounter a car that is going too fast.
+In 5 meters, you will encounter a car that is going too fast.
+In 100 meters, you will encounter a bicycle that is going too fast.
+In 50 meters, you will encounter a bicycle that is going too fast.
+In 40 meters, you will encounter a bicycle that is going too fast.
+In 30 meters, you will encounter a bicycle that is going too fast.
+In 25 meters, you will encounter a bicycle that is going too fast.
+In 20 meters, you will encounter a bicycle that is going too fast.
+In 15 meters, you will encounter a bicycle that is going too fast.
+In 10 meters, you will encounter a bicycle that is going too fast.
+In 5 meters, you will encounter a bicycle that is going too fast.
+In 100 meters, you will encounter an obstacle that is dangerous.
+In 50 meters, you will encounter an obstacle that is dangerous.
+In 40 meters, you will encounter an obstacle that is dangerous.
+In 30 meters, you will encounter an obstacle that is dangerous.
+In 25 meters, you will encounter an obstacle that is dangerous.
+In 20 meters, you will encounter an obstacle that is dangerous.
+In 15 meters, you will encounter an obstacle that is dangerous.
+In 10 meters, you will encounter an obstacle that is dangerous.
+In 5 meters, you will encounter an obstacle that is dangerous.
+In 100 meters, you will encounter an intersection that is dangerous.
+In 50 meters, you will encounter an intersection that is dangerous.
+In 40 meters, you will encounter an intersection that is dangerous.
+In 30 meters, you will encounter an intersection that is dangerous.
+In 25 meters, you will encounter an intersection that is dangerous.
+In 20 meters, you will encounter an intersection that is dangerous.
+In 15 meters, you will encounter an intersection that is dangerous.
+In 10 meters, you will encounter an intersection that is dangerous.
+In 5 meters, you will encounter an intersection that is dangerous.
+In 100 meters, you will encounter a pedestrian that is dangerous.
+In 50 meters, you will encounter a pedestrian that is dangerous.
+In 40 meters, you will encounter a pedestrian that is dangerous.
+In 30 meters, you will encounter a pedestrian that is dangerous.
+In 25 meters, you will encounter a pedestrian that is dangerous.
+In 20 meters, you will encounter a pedestrian that is dangerous.
+In 15 meters, you will encounter a pedestrian that is dangerous.
+In 10 meters, you will encounter a pedestrian that is dangerous.
+In 5 meters, you will encounter a pedestrian that is dangerous.
+In 100 meters, you will encounter a car that is dangerous.
+In 50 meters, you will encounter a car that is dangerous.
+In 40 meters, you will encounter a car that is dangerous.
+In 30 meters, you will encounter a car that is dangerous.
+In 25 meters, you will encounter a car that is dangerous.
+In 20 meters, you will encounter a car that is dangerous.
+In 15 meters, you will encounter a car that is dangerous.
+In 10 meters, you will encounter a car that is dangerous.
+In 5 meters, you will encounter a car that is dangerous.
+In 100 meters, you will encounter a bicycle that is dangerous.
+In 50 meters, you will encounter a bicycle that is dangerous.
+In 40 meters, you will encounter a bicycle that is dangerous.
+In 30 meters, you will encounter a bicycle that is dangerous.
+In 25 meters, you will encounter a bicycle that is dangerous.
+In 20 meters, you will encounter a bicycle that is dangerous.
+In 15 meters, you will encounter a bicycle that is dangerous.
+In 10 meters, you will encounter a bicycle that is dangerous.
+In 5 meters, you will encounter a bicycle that is dangerous.
+To your right will appear an obstacle.
+To your left will appear an obstacle.
+To your right will appear an intersection.
+To your left will appear an intersection.
+To your right will appear a pedestrian.
+To your left will appear a pedestrian.
+To your right will appear a car.
+To your left will appear a car.
+To your right will appear a bicycle.
+To your left will appear a bicycle.
+Now you should not attempt to turn right.
+Now you should not attempt to turn left.
+Do not attempt to turn right at this moment.
+Do not attempt to turn left at this moment.
+Slow down you are 100 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 100 kilometers per hour.
+Slow down you are 100 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 50 kilometers per hour.
+Slow down you are 100 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 40 kilometers per hour.
+Slow down you are 100 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 30 kilometers per hour.
+Slow down you are 100 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 25 kilometers per hour.
+Slow down you are 100 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 20 kilometers per hour.
+Slow down you are 100 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 15 kilometers per hour.
+Slow down you are 100 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 10 kilometers per hour.
+Slow down you are 100 kilometers over the area's limit of 5 kilometers per hour.
+Slow down you are 50 kilometers over the area's limit of 5 kilometers per hour.
+Slow down you are 40 kilometers over the area's limit of 5 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 5 kilometers per hour.
+Slow down you are 25 kilometers over the area's limit of 5 kilometers per hour.
+Slow down you are 20 kilometers over the area's limit of 5 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 5 kilometers per hour.
+Slow down you are 10 kilometers over the area's limit of 5 kilometers per hour.
+Slow down you are 5 kilometers over the area's limit of 5 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 100 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 50 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 40 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 30 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 25 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 20 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 15 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 10 kilometers per hour.
+Speed up, you are 100 kilometers under the area's limit of 5 kilometers per hour.
+Speed up, you are 50 kilometers under the area's limit of 5 kilometers per hour.
+Speed up, you are 40 kilometers under the area's limit of 5 kilometers per hour.
+Speed up, you are 30 kilometers under the area's limit of 5 kilometers per hour.
+Speed up, you are 25 kilometers under the area's limit of 5 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 5 kilometers per hour.
+Speed up, you are 15 kilometers under the area's limit of 5 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 5 kilometers per hour.
+Speed up, you are 5 kilometers under the area's limit of 5 kilometers per hour.
+You are approaching an obstacle, turn right there.
+You are approaching an intersection, turn right there.
+You are approaching a pedestrian, turn right there.
+You are approaching a car, turn right there.
+You are approaching a bicycle, turn right there.
+You are approaching an obstacle, turn left there.
+You are approaching an intersection, turn left there.
+You are approaching a pedestrian, turn left there.
+You are approaching a car, turn left there.
+You are approaching a bicycle, turn left there.
+You will reach your destination at the right.
+You will reach your destination at the left.

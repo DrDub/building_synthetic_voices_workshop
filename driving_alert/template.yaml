@@ -1,0 +1,40 @@
+utterances:
+  - There is $OBJECT to your $DIRECTION.
+  - You are approaching $OBJECT in $NUMBER meters.
+  - In $NUMBER meters, you will encounter $OBJECT that $ATTRIBUTE.
+  - To your $DIRECTION will appear $OBJECT.
+  - Now you should not attempt to turn $DIRECTION.
+  - Do not attempt to turn $DIRECTION at this moment.
+  - "Slow down you are $NUMBER kilometers over the area's limit of $NUMBER kilometers per hour."
+  - "Speed up, you are $NUMBER kilometers under the area's limit of $NUMBER kilometers per hour."
+  - You are approaching $OBJECT, turn $DIRECTION there.
+  - You will reach your destination at the $DIRECTION.
+fillers:
+  OBJECT:
+    - a bicycle     
+    - a car
+    - a pedestrian
+    - an intersection
+    - an obstacle
+  ATTRIBUTE:
+    - is dangerous
+    - is going too fast
+    - is going too slow
+    - might not be able to see you
+    - is stopped
+    - is stationary
+  DIRECTION:
+    - left
+    - right
+  NUMBER:
+    - 5
+    - 10
+    - 15
+    - 20
+    - 25
+    - 30
+    - 40
+    - 50
+    - 100
+  
+

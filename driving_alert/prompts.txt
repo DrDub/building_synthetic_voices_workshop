@@ -1,0 +1,24 @@
+There is an obstacle to your right.
+There is an intersection to your left.
+You are approaching a pedestrian in 100 meters.
+You are approaching a bicycle in 50 meters.
+You are approaching a car in 40 meters.
+In 30 meters, you will encounter an obstacle that is stationary.
+In 25 meters, you will encounter an intersection that is stopped.
+In 20 meters, you will encounter a pedestrian that might not be able to see you.
+In 15 meters, you will encounter a car that is going too slow.
+In 10 meters, you will encounter a bicycle that is going too fast.
+In 5 meters, you will encounter an obstacle that is dangerous.
+To your right will appear an intersection.
+To your left will appear a pedestrian.
+Now you should not attempt to turn right.
+Do not attempt to turn left at this moment.
+Slow down you are 5 kilometers over the area's limit of 100 kilometers per hour.
+Speed up, you are 10 kilometers under the area's limit of 50 kilometers per hour.
+Slow down you are 15 kilometers over the area's limit of 40 kilometers per hour.
+Speed up, you are 20 kilometers under the area's limit of 30 kilometers per hour.
+Slow down you are 30 kilometers over the area's limit of 25 kilometers per hour.
+You are approaching a car, turn right there.
+You are approaching a bicycle, turn left there.
+You will reach your destination at the right.
+You will reach your destination at the left.
