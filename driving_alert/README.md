@@ -93,8 +93,11 @@ FEMALE_ARGS to PM_ARGS and delete the next line that sets PM_ARGS.
   cd $HOME/workshop/foulab_driving_me
   bin/make_pm_wave wav/*.wav
 
-this populates the pm/ folder. These post processing scripts are not
-mandatory but help:
+this populates the pm/ folder. If it complains the file
+etc/txt.done.data is missing copy etc/driving.data into
+etc/txt.done.data.
+
+These post processing scripts are not mandatory but help:
 
   cd $HOME/workshop/foulab_driving_me
   bin/make_pm_fix pm/*.pm
