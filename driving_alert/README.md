@@ -9,15 +9,19 @@ Set up
 
 Go to the workshop folder and create a folder to contain the voice:
 
+<pre>
   mkdir $HOME/workshop/foulab_driving_me
+</pre>
 
 You can replace "foulab" for any other organization that better
 describes you or use "net" for a generic one. It is better if you
 replace "me" with your initials. Now use the FestVox limited domain
 bootstrapping script:
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   $FESTVOXDIR/src/ldom/setup_ldom foulab driving me
+</pre>
 
 if you are using a different organization change the foulab here and
 change your initials, too.
@@ -32,8 +36,10 @@ Generate prompts
 
 The next step is to generate the prompts using an existing voice:
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   festival -b festvox/build_ldom.scm '(build_prompts "etc/driving.data")'
+</pre>
 
 This step will produce a set of synthesized wave files in
 $HOME/workshop/foulab_driving_me/prompt-wav/
@@ -45,14 +51,18 @@ look for the line USE_SOX=0 and change it to USE_SOX=1
 
 Record the prompts by doing
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   bin/prompt_them etc/driving.data
+</pre>
 
 if you record something wrong press CTRL+C and restart from a given
 prompt number, say prompt number 5:
-  
+
+<pre>  
   cd $HOME/workshop/foulab_driving_me
   bin/prompt_them etc/driving.data 5
+</pre>
 
 it is good to record just one prompt and then listen to the wave file
 in wav/driving0001.wav to make sure it is being recorded correctly and
@@ -64,8 +74,10 @@ Aligning the prompts
 
 The next step is to align your recorded voice to the original text:
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   bin/make_labs prompt-wav/*.wav
+</pre>
 
 this will populate the folder $HOME/workshop/foulab_driving_me/lab.
 These files can be edited and visualized with wavesurfer (see
@@ -74,9 +86,10 @@ These files can be edited and visualized with wavesurfer (see
 From these alignments the full utterance structure is built by copying
 the information from the synthesized speech into your timing data:
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   festival -b festvox/build_ldom.scm '(build_utts "etc/driving.data")'
-
+</pre>
 
 Pitchmarks
 ----------
@@ -90,8 +103,10 @@ are recording a female voice.  The parameters are in
 bin/make_pm_wave. If you are recording a female voice change
 FEMALE_ARGS to PM_ARGS and delete the next line that sets PM_ARGS.
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   bin/make_pm_wave wav/*.wav
+</pre>
 
 this populates the pm/ folder. If it complains the file
 etc/txt.done.data is missing copy etc/driving.data into
@@ -99,45 +114,56 @@ etc/txt.done.data.
 
 These post processing scripts are not mandatory but help:
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   bin/make_pm_fix pm/*.pm
   bin/simple_powernormalize wav/*.wav
+</pre>
 
 Finally, we can obtain the mcep data:
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   bin/make_mcep wav/*.wav
-
+</pre>
 
 NOTE: To visualize them and edit them, you need to generate pm_lab files
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   bin/make_pmlab_pm pm/*.pm
+</pre>
 
 if you edit the files in pm_lab you will need to transfer back the information with
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   bin/make_pm_pmlab pm_lab/*.lab
-
+</pre>
 
 Building the voice
 ------------------
 
 The last step is to generate the actual voice:
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   festival -b festvox/build_ldom.scm '(build_clunits "etc/driving.data")'
+</pre>
 
 To use the voice:
 
+<pre>
   cd $HOME/workshop/foulab_driving_me
   festival festvox/foulab_driving_me_ldom.scm '(voice_foulab_driving_me_ldom)'
+</pre>
 
 This will bring the festival prompt
 
+<pre>
   (SayText "In 30 meters, you will encounter a car that might not be able to see you.")
   (SayText "In hour meters, you will intersection a pedestrian that might not be able to bicycle you.")
-
+</pre>
 
 
 
