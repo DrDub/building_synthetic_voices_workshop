@@ -27,8 +27,10 @@ Debian and Debian derivatives
 
 Install dependencies and helpful programs:
 
+<pre>
   sudo apt-get install festival festival-dev festlex-cmu sox audacity wavesurfer
   sudo apt-get build-dep festival
+</pre>
 
 Mac OS X
 --------
@@ -46,40 +48,49 @@ Common Instructions
 After having installed the dependencies, create a folder
 $HOME/workshop and download the files above
 
+<pre>
   mkdir $HOME/workshop
   cd $HOME/workshop
   wget http://festvox.org/packed/festival/2.4/festival-2.4-release.tar.gz
   wget http://festvox.org/packed/festival/2.4/speech_tools-2.4-release.tar.gz
   wget http://festvox.org/festvox-2.7/festvox-2.7.0-release.tar.gz
+</pre>
 
 go to $HOME/workshop and extract the files:
 
+<pre>
   cd $HOME/workshop
   tar -zxf festival-2.4-release.tar.gz
   tar -zxf speech_tools-2.4-release.tar.gz
   tar -zxf festvox-2.7.0-release.tar.gz
+</pre>
 
 build the Edinburgh Speech Tools:
 
+<pre>
   cd $HOME/workshop/speech_tools
   ./configure
   make
   export ESTDIR=`pwd`
+</pre>
 
 build Festival:
 
+<pre>
   cd $HOME/workshop/festival
   ./configure
   make
   export FESTIVAL_HOME=`pwd`
+</pre>
 
 buid FestVox
 
+<pre>
   cd $HOME/workshop/festvox
   ./configure
   make
   export FESTVOXDIR=`pwd`
-
+</pre>
 
 Notes:
 
